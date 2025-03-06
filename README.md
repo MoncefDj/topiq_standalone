@@ -8,8 +8,8 @@ This standalone implementation allows you to use TOPIQ without installing the fu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/TOPIQ-Standalone.git
-   cd TOPIQ-Standalone
+   git clone https://github.com/MoncefDj/topiq_standalone.git
+   cd topiq_standalone
    ```
 
 2. Install the required dependencies:
